@@ -12,6 +12,9 @@ header {
 .topnav {
   overflow: hidden;
   background-color:purple;
+  position: -webkit-sticky; 
+  position: sticky;
+  top: 0;
 }
 
 
